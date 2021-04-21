@@ -1,6 +1,6 @@
 {
     "name": "i3-gaps",
-    "repo": "git@github.com:Airblader/i3.git",
+    "repo": "https://github.com/Airblader/i3.git",
     "branch": "gaps-next",
     "dependencies": [
         "libxcb1-dev",
