@@ -1,0 +1,7 @@
+{
+    "name": "dummy-pkg",
+    "repo": "https://github.com/carvalhudo/dummy-pkg.git",
+    "branch": "master",
+    "dependencies": [],
+    "maintainer": "André L. C. Moreira <alcm99@gmail.com>"
+}
