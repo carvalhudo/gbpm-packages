@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mkdir ~/.fzf_tab
+cp fzf-tab.plugin.zsh ~/.fzf_tab
