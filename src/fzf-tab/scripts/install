@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo 'source ~/.fzf_tab/fzf-tab.plugin.zsh' >> ~/.zshrc

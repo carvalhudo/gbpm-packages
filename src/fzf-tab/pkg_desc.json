@@ -1,0 +1,9 @@
+{
+    "name": "fzf-tab",
+    "repo": "https://github.com/Aloxaf/fzf-tab.git",
+    "branch": "master",
+    "dependencies": [
+        "fzf"
+    ],
+    "maintainer": "André L. C. Moreira <alcm99@gmail.com>"
+}

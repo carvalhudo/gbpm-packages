@@ -1,0 +1,4 @@
+#!/bin/sh
+
+rm -rf ~/.fzf_tab
+sed -i '/source ~\/.fzf_tab\/fzf-tab.plugin.zsh/d' ~/.zshrc
