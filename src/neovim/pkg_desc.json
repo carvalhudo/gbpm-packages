@@ -1,0 +1,7 @@
+{
+    "name": "neovim",
+    "repo": "https://github.com/neovim/neovim",
+    "branch": "master",
+    "dependencies": [],
+    "maintainer": "André L. C. Moreira <alcm99@gmail.com>"
+}
